@@ -1,0 +1,32 @@
+.div1 {
+    display: flex;
+     justify-content: space-evenly;
+     flex-direction: column;
+}
+
+.div2 {
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: column;
+    
+}
+
+.lorem {
+
+    display: flex;
+}
+
+
+.textsearch
+{
+    display:flex; 
+       justify-content: space-between;
+
+}
+
+.mega {
+
+    display: flex;
+    flex-direction: ;
+    
+}
